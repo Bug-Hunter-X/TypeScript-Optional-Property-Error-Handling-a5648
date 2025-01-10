@@ -1,0 +1,1 @@
+This repository demonstrates a common error in TypeScript related to optional properties.  The `bug.ts` file contains code that throws an error if the input object is missing properties. The `bugSolution.ts` file provides a solution to handle this gracefully.  The issue arises from accessing properties that might not exist without proper checking.
